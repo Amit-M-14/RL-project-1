@@ -188,19 +188,3 @@ Tests cover:
 ## Tech stack
 
 Python 3.10+, Gymnasium, Stable-Baselines3, PyTorch, NumPy, Pytest, Docker, GitHub Actions, TensorBoard.
-
----
-
-## Contributing
-
-Issues and pull requests are welcome. Please run `pytest` and `ruff check .` before submitting.
-
-## License
-
-MIT. See `LICENSE`.
-
-## Author
-
-**Your Name**: [GitHub](https://github.com/<your-username>) · [LinkedIn](https://linkedin.com/in/<your-handle>) · your@email.com
-
-Available for freelance RL environment design and evaluation work.
