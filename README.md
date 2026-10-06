@@ -1,8 +1,7 @@
-# RL-Env-Kit: An End-to-End Reinforcement Learning Environment
+# RL-Env
 
 A production-style reinforcement learning (RL) environment, built from scratch: a custom [Gymnasium](https://gymnasium.farama.org/)-compatible environment, a verifiable reward function, baseline training, evaluation, reproducible packaging with Docker, and CI.
 
-> Replace `RL-Env-Kit` and the example task below with your own project name and domain.
 
 ---
 
